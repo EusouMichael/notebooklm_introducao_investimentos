@@ -7,6 +7,9 @@
 </p>
 
 # 📚 Caderno Temático com NotebookLM: Introdução aos Investimentos
+## 🔗 Acesso ao NotebookLM
+
+[Visualizar NotebookLM](https://notebooklm.google.com/notebook/3427d053-e909-409a-87fd-ff76d1b54f5b?authuser=1)
 
 ## 📖 Sobre o Projeto
 
