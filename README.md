@@ -1,3 +1,9 @@
+![Bootcamp](assets/bootcamp_Bradesco.png)
+
+<p align="center">
+  <img src="assets/dio_me.png" width="180">
+</p>
+
 # 📚 Caderno Temático com NotebookLM: Introdução aos Investimentos
 
 ## 📖 Sobre o Projeto
