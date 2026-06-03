@@ -1,7 +1,9 @@
-![Bootcamp](assets/bootcamp_Bradesco.png)
+
+![Bootcamp Bradesco](assets/Bootcamp_Bradesco.png)
+---
 
 <p align="center">
-  <img src="assets/dio_me.png" width="180">
+  <img src="assets/Dio_me.png" width="180">
 </p>
 
 # 📚 Caderno Temático com NotebookLM: Introdução aos Investimentos
@@ -43,6 +45,8 @@ Diversificação de Carteira
 Fundo Garantidor de Créditos (FGC)
 
 Todas as fontes foram organizadas e analisadas dentro do NotebookLM.
+
+![Fontes Utilizadas](assets/Dados_Pesquisa.png)
 
 ## 🧠 Engenharia de Prompts
 
