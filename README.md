@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de estudo e organização do conhecimento.
+Este projeto foi desenvolvido como parte do desafio do Bootcamp Bradesco - GenAI, Dados & Cyber junto a DIO. me, utilizando o NotebookLM como ferramenta de estudo e organização do conhecimento.
 
 ---
 
