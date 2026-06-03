@@ -3,6 +3,8 @@
 
 Durante o desenvolvimento deste projeto, foram utilizadas diversas funcionalidades do NotebookLM para transformar fontes de informação em materiais estruturados de estudo.
 
+![Mapa Mental](assets/Funcionalidades.png)
+
 ### 🎙️ Resumo em Áudio
 
 Permite converter o conteúdo analisado em um formato de podcast ou conversa em áudio, facilitando revisões e aprendizado em diferentes contextos.
