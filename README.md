@@ -12,7 +12,7 @@ O caderno temático completo pode ser acessado através do link abaixo:
 
 [NotebookLM - Introdução aos Investimentos](https://notebooklm.google.com/notebook/3427d053-e909-409a-87fd-ff76d1b54f5b?authuser=1)
 
-> Observação: O notebook foi desenvolvido com base em fontes de educação financeira e investimentos para iniciantes, utilizando recursos de IA para síntese, revisão e organização do conhecimento.
+> Observação: O notebook foi desenvolvido com base em fontes de educação financeira e investimentos para iniciantes.
 
 ---
 
