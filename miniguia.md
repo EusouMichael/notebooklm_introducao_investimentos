@@ -12,11 +12,11 @@ A educação financeira permite organizar receitas, controlar despesas e tomar d
 
 ### Principais benefícios
 
-* Controle financeiro
-* Planejamento de objetivos
-* Redução de dívidas
-* Construção de patrimônio
-
+*  Controle financeiro
+*  Planejamento de objetivos
+*  Redução de dívidas
+*  Construção de patrimônio
+  
 ---
 
 ## 🛟 Reserva de Emergência
