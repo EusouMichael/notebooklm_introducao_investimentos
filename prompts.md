@@ -125,6 +125,3 @@ Estes três elementos formam o "tripé dos investimentos" e devem ser analisados
 ### 8. Resumo Executivo Final
 O sucesso nos investimentos não depende de fórmulas mágicas, mas de **planejamento, disciplina e conhecimento**. O investidor deve primeiro organizar suas contas e criar uma **reserva de emergência** robusta antes de buscar ativos de maior risco. É essencial conhecer seu **perfil de investidor** (conservador, moderado ou arrojado) e respeitar sua tolerância emocional a perdas. Por fim, a **diversificação** entre renda fixa e variável é a estratégia mais eficaz para equilibrar o retorno desejado com a segurança necessária para o patrimônio de longo prazo.
 ...
-
-Aprendizado:
-...
