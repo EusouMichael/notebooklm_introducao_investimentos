@@ -5,6 +5,7 @@ Durante o desenvolvimento deste projeto, foram utilizadas diversas funcionalidad
 
 ![Mapa Mental](assets/Funcionalidades.png)
 
+
 ### 🎙️ Resumo em Áudio
 
 Permite converter o conteúdo analisado em um formato de podcast ou conversa em áudio, facilitando revisões e aprendizado em diferentes contextos.
@@ -16,20 +17,26 @@ Gera uma apresentação visual resumindo os principais conceitos identificados n
 ### 🗺️ Mapa Mental
 
 Cria representações visuais dos conceitos estudados, auxiliando na compreensão das relações entre os temas.
+
 ![Mapa Mental](assets/Mapa_Mental.png)
+
 
 ### 📑 Relatórios
 
 Produz documentos organizados contendo resumos estruturados e análises dos conteúdos estudados.
+
 ![Mapa Mental](assets/Relatorios.png)
 
 ### 🃏 Cartões Didáticos
+
 Gera flashcards automaticamente para reforçar a memorização e revisão dos conceitos aprendidos.
+
 ![Flashcards](assets/Flash_Cards.png)
 
 ### 📝 Teste
 
 Cria questionários para validar o aprendizado e identificar pontos que precisam de revisão.
+
 ![Mapa Mental](assets/Teste.png)
 
 ### 📊 Tabela de Dados
