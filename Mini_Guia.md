@@ -129,3 +129,8 @@ A jornada do investidor iniciante deve seguir uma sequência simples:
 4. Conhecer o próprio perfil.
 5. Diversificar os investimentos.
 6. Investir com foco no longo prazo.
+---
+
+## 📄 Material Complementar
+
+📥 [Baixar PDF de Investimentos](assets/The_Wealth_Blueprint.pdf)
