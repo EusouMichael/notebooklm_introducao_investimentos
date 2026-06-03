@@ -14,14 +14,15 @@ Gera uma apresentação visual resumindo os principais conceitos identificados n
 ### 🗺️ Mapa Mental
 
 Cria representações visuais dos conceitos estudados, auxiliando na compreensão das relações entre os temas.
+![Mapa Mental](assets/Mapa_Mental.png)
 
 ### 📑 Relatórios
 
 Produz documentos organizados contendo resumos estruturados e análises dos conteúdos estudados.
 
 ### 🃏 Cartões Didáticos
-
 Gera flashcards automaticamente para reforçar a memorização e revisão dos conceitos aprendidos.
+![Flashcards](assets/Flash_Cards.png)
 
 ### 📝 Teste
 
