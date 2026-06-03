@@ -21,6 +21,7 @@ Cria representações visuais dos conceitos estudados, auxiliando na compreensã
 ### 📑 Relatórios
 
 Produz documentos organizados contendo resumos estruturados e análises dos conteúdos estudados.
+![Mapa Mental](assets/Relatorios.png)
 
 ### 🃏 Cartões Didáticos
 Gera flashcards automaticamente para reforçar a memorização e revisão dos conceitos aprendidos.
@@ -29,6 +30,7 @@ Gera flashcards automaticamente para reforçar a memorização e revisão dos co
 ### 📝 Teste
 
 Cria questionários para validar o aprendizado e identificar pontos que precisam de revisão.
+![Mapa Mental](assets/Teste.png)
 
 ### 📊 Tabela de Dados
 
